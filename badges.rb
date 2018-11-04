@@ -13,10 +13,6 @@ end
 def assign_rooms(name) 
 room=1
 room each_with_index
-
-end
 end
 
   
-
-end
