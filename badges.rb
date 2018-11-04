@@ -11,7 +11,7 @@ puts "Hello #{name[5]}."
 puts "Hello #{name[6]}."
 end
 def assign_rooms(room, index)  
-puts "Hello," + name[index] +  
+puts "Hello," + name[index] + "!" + room[index]
 
 end
 end
