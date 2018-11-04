@@ -13,7 +13,7 @@ end
 def assign_rooms(name) 
 room=1
 room each_with_index
-puts "Hello," + "!" + name[index] + "You'll be assigned to room" + room[index]
+puts "Hello," + "!" + name[index] + "You'll be assigned to room" + room[index] +"!"
 end
 
   
