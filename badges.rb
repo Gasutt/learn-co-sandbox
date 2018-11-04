@@ -10,10 +10,12 @@ puts "Hello #{name[4]}."
 puts "Hello #{name[5]}."
 puts "Hello #{name[6]}."
 end
-def assign_rooms(room)  
-puts "Hello, name"
-end
+def assign_rooms(room, index)  
+puts "Hello," + name[index] +  
+
 end
 end
 
   
+
+end
