@@ -11,7 +11,7 @@ puts "Hello #{name[5]}."
 puts "Hello #{name[6]}."
 end
 def assign_rooms(name) 
-room=1
+room=0 
 room each_with_index
 puts "Hello," + "!" + name[index] + "You'll be assigned to room" + room[index] +"!"
 end
