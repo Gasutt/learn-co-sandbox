@@ -10,7 +10,7 @@ puts "Hello #{name[4]}."
 puts "Hello #{name[5]}."
 puts "Hello #{name[6]}."
 end
-def assign_rooms(room, index)  
+def assign_rooms(room 
 room=1
 room each_with_index
 
