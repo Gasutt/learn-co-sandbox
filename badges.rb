@@ -12,7 +12,7 @@ puts "Hello #{name[6]}."
 end
 def assign_rooms(name,index)  
 name each_with_index 
-puts "Hello, name[index]! You will be assigned to room"
+puts
 end
 end
 end
